@@ -1,4 +1,4 @@
-**REST Countries API with Theme Switcher
+**REST Countries API with Theme Switcher**
 
 Built a responsive React app that integrates with the REST Countries API. Users can:
 
